@@ -11,5 +11,14 @@ System.out.println("11:23 -github.com");
 	System.out.println("Ben burada confit beklemiyorum");
 System.out.println("Localden yepyeni satir");
 System.out.println("10:26 - feture branch");
+
+System.out.println("yeni bir satir");
+System.out.println("10:26 -feature branch");
+System.out.println("10:58 - feature branch");
+System.out.println("11:00   master branch");
+
+
+
 }
+
 }
