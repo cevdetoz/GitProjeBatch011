@@ -9,12 +9,7 @@ public static void main(String[] args) {
 System.out.println("11:05 -local");
 System.out.println("11:23 -github.com");
 	System.out.println("Ben burada confit beklemiyorum");
-<<<<<<< HEAD
 System.out.println("Localden yepyeni satir");
-
-
-=======
-System.out.println("yeni bir satir");
->>>>>>> refs/remotes/origin/master
+System.out.println("10:26 - feture branch");
 }
 }
