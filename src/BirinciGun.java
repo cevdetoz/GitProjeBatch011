@@ -9,6 +9,6 @@ public static void main(String[] args) {
 System.out.println("11:05 -local");
 System.out.println("11:23 -github.com");
 	System.out.println("Ben burada confit beklemiyorum");
-
+System.out.println("yeni bir satir");
 }
 }
